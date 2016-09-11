@@ -1,4 +1,4 @@
-# 1-wire-alarm-seniors
+# 1-wire-alarm-sensors
 Collection of 1-wire sensor devices
 
 A switch 'closure' sensor such as a typical magnetic reed switch is connected to the photonAlarm 
