@@ -14,4 +14,4 @@ there is no voltage to detect by the sensor switch closing.  In order to keep th
 spirit of 1-wire, a method, called parasitic power, can be used to power the detection circuit of the
 reed switch.  This method is implemented by a parasitic charge circuit which taps the 1-wire data line
 to keep a capacitor charged.  The charge on this capacitor is used to drive the voltage detection at the
-device's PIO port.  This design is attached as sensor-2406p+.
+device's PIO port.  This design is attached as sensor-2406p+.  Included are Eagle files as well as the .pdf's.
